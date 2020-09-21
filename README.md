@@ -2,13 +2,13 @@
 
 ## Images
 
-### Dashboard
+|                   Dashboard                   |                   Login                   |
+| :-------------------------------------------: | :---------------------------------------: |
+| ![Dashboard](https://i.imgur.com/3VkfQQt.png) | ![Login](https://i.imgur.com/RZAL9Ya.png) |
 
-![Dashboard](https://i.imgur.com/3VkfQQt.png)
+---
 
-### Login Page
-
-![Login](https://i.imgur.com/RZAL9Ya.png)
+## Description
 
 This was built for University of Engineering and Managment to keep track of attendance and circulate notices.
 
